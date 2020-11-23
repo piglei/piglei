@@ -1,4 +1,4 @@
-我是 piglei，定居深圳，负责[蓝鲸 aPaaS 平台](https://bk.tencent.com/)的后端开发。如果你：
+我是 piglei，定居深圳，负责[蓝鲸 aPaaS 平台](https://bk.tencent.com/)的后端开发工作。如果你：
 
 - 热爱编程，精通 Python 或 Go 语言
 - 乐于编写整洁代码，喜欢单元测试
